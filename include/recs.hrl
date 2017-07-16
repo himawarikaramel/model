@@ -1,0 +1,2 @@
+-record(model, {id, data, subs=[]}).
+-record(reg, {id, delegate}).
